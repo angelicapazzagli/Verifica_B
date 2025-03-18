@@ -1,0 +1,14 @@
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\bin\Debug\net7.0\Verifica_B.exe
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\bin\Debug\net7.0\Verifica_B.deps.json
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\bin\Debug\net7.0\Verifica_B.runtimeconfig.json
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\bin\Debug\net7.0\Verifica_B.dll
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\bin\Debug\net7.0\Verifica_B.pdb
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\obj\Debug\net7.0\Verifica_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\obj\Debug\net7.0\Verifica_B.AssemblyInfoInputs.cache
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\obj\Debug\net7.0\Verifica_B.AssemblyInfo.cs
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\obj\Debug\net7.0\Verifica_B.csproj.CoreCompileInputs.cache
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\obj\Debug\net7.0\Verifica_B.dll
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\obj\Debug\net7.0\refint\Verifica_B.dll
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\obj\Debug\net7.0\Verifica_B.pdb
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\obj\Debug\net7.0\Verifica_B.genruntimeconfig.cache
+C:\Users\PAZZAGLI.ANGELICA\Documents\Visual Studio 2022\Verifica_B\Verifica_B\obj\Debug\net7.0\ref\Verifica_B.dll
